@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @taudze
+- 👀 I’m interested in physics, new tech and spacex
+- 🌱 I’m currently studying software systems at Kaunas University of Technologies.
+- 📫 How to reach me tautvydas.dzevecka@telesoftas.com
